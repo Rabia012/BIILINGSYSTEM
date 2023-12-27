@@ -1,0 +1,3 @@
+C:\Users\ahmed\source\repos\BILLINGSYSTEM\BILLINGSYSTEM\x64\Debug\BILLINGSYSTEM.vcxproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\BILLINGSYSTEM\BILLINGSYSTEM\x64\Debug\BILLINGSYSTEM.MyForm.resources
+C:\Users\ahmed\source\repos\BILLINGSYSTEM\BILLINGSYSTEM\x64\Debug\BILLINGSYSTEM.vcxproj.GenerateResource.cache
