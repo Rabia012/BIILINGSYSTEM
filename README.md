@@ -25,7 +25,7 @@ Flowchart :
 
 
 USER INTERFACE :
-
+![USERINTERFACE](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/8cb9abf0-b29c-42cb-b46c-8f251dc83f3c)
 
 HOW TO RUN:
 
@@ -36,4 +36,21 @@ HOW TO RUN:
 
 WORKING:
 
-      
+       1. First select items from drop down menu and also select quantity of each item.
+  ![SElectingitems](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/7dff0167-cd84-4800-9d27-bd06ef3695c5)
+       2. Press total button. 
+   ![TOTAL](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/24e49286-dd91-4dc8-aa5e-86216c28600b)
+       3. Press reciept button.
+   ![Reciept](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/1ac41126-3976-4c58-96f2-3d0a50b572ce) 
+  
+       4. Press print button to print.
+   ![PRINT](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/f6864218-1698-47c5-946d-ef963a8a131e)
+ 
+  The print preview will look like this.
+         ![PRINTPREVIEW](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/63551326-2129-4156-ae4a-76ffde627d2b)
+
+       5. Press reset button to reset values.
+   ![Reset](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/e6e6883f-ad1e-4cb6-a49c-73b57e20329e)
+       6. Press Exit button to exit.
+   ![EXIT](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/7c02fbfe-3ba2-4a05-830a-7cb04a9a9fc9)
+  
