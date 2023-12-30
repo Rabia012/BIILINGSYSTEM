@@ -20,7 +20,7 @@ INTRODUCTION:
       .net Framework(C++/CLR) should be installed.
 
 Flowchart :
-
+![Flowchart](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/b336901f-87d6-4201-9755-6bbf1ecac2d2)
 
 
 How to run:
