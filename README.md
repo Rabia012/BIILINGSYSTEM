@@ -23,4 +23,8 @@ Flowchart :
 
      ![FlowChart](Flow%20Cahrt%20and%20interface/FlowChart.png)
 
+How to run:
+
+      https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/d5174e4e-a76d-4f85-b7c9-d339de3138f6
+
       
