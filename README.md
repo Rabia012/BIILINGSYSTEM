@@ -1,5 +1,5 @@
 # BIILINGSYSTEM
-INTRODUCTION:
+# INTRODUCTION:
 
       The Billing System is a software solution developed in C++ with a Graphical
       User Interface (GUI) to give efficient method for bill generation.
