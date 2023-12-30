@@ -25,6 +25,9 @@ Flowchart :
 
 How to run:
 
- ![How_to_run](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/f3ee68ef-8852-4282-8be6-71a6e1631e5d)
+        1. First download the zip file from the github.
+        2. Then. Follow the steps in video given below.
+
+       ![How_to_run](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/f3ee68ef-8852-4282-8be6-71a6e1631e5d)
 
       
