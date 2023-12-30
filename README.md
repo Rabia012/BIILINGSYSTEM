@@ -21,5 +21,5 @@ INTRODUCTION:
 
 Flowchart :
 
-      ![Alt Text](Flow Cahrt and interface/FlowChart.png)
+      ![Flowchart](Flow Cahrt and interface/FlowChart.png)
       
