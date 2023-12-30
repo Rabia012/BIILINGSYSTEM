@@ -18,3 +18,8 @@ INTRODUCTION:
   
       Visual studio 2022
       .net Framework(C++/CLR) should be installed.
+
+Flowchart :
+
+      ![Alt Text](Flow Cahrt and interface/FlowChart.png)
+      
