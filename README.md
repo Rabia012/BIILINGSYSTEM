@@ -21,5 +21,6 @@ INTRODUCTION:
 
 Flowchart :
 
-      ![Flowchart](Flow Cahrt and interface/FlowChart.png)
+     ![FlowChart](Flow%20Cahrt%20and%20interface/FlowChart.png)
+
       
