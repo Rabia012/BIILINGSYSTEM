@@ -9,7 +9,7 @@
       2. Provide a receipt of purchased items.
       3. Give the option to print the receipt.
       4. Resets all the values to zero.
-      5. Give Exist option.
+      5. Give Exit option.
   LANGUAGE USED:
   
         C++/CLI 
@@ -31,7 +31,7 @@ USER INTERFACE :
 HOW TO RUN:
 
         1. First download the zip file from the github.
-        2. Then. Follow the steps in video given below.
+        2. Then,follow the steps in video given below.
 
    ![How_to_run](https://github.com/Rabia012/BIILINGSYSTEM/assets/154417545/f3ee68ef-8852-4282-8be6-71a6e1631e5d)
 
